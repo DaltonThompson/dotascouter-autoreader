@@ -1,0 +1,17 @@
+{
+  "name": "scouter-auto",
+  "version": "1.0.0",
+  "description": "Detects the current match in Dota 2 and automatically opens a link to Dota Scouter with player IDs as inputs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Dalton Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "open": "^8.4.0"
+  }
+}

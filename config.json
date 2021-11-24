@@ -1,0 +1,8 @@
+{
+    "logPath": "/Library/Application Support/Steam/SteamApps/common/dota 2 beta/game/dota/server_log.txt",
+    "patches": 4,
+    "targetUrl": "https://daltonthompson.github.io/DotaScouter/",
+    "fallback": false,
+    "devMode": false,
+    "testLog": "test_log.txt"
+}
